@@ -6,7 +6,6 @@ Questo paper di ricerca esamina l'evoluzione del disordine informativo, analizza
 ## 🛠️ Competenze e Tecnologie
 - **Political Analysis:** Studio comparativo di casi internazionali (USA, Filippine, Brasile).
 - **Technical Literacy:** Approfondimento sulle tecnologie di sintesi multimediale (GANs, Neural Networks).
-- **Documentazione:** Redazione accademica tramite LaTeX (Overleaf).
 
 ## 🔍 Tematiche Chiave
 - **Evoluzione della Disinformazione:** Analisi della transizione dai contenuti testuali ai media sintetici iper-realistici.
